@@ -1,0 +1,257 @@
+/* Basic styles for your website */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #88bf9a;
+}
+
+header {
+    background-color: #ff6699;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #ff6699;
+    color: #fff;
+}
+
+section {
+    padding: 2rem;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+/* Add this to your existing CSS (styles.css) */
+
+#location {
+    text-align: center;
+    padding: 20px;
+}
+
+#getLocation {
+    background-color: #ff6699;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#getLocation:hover {
+    background-color: #ff3366;
+}
+
+#coordinates {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+/* Add this to your existing CSS or create a new CSS file */
+
+.safety-tip {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.safety-tip h3 {
+    color: #333;
+}
+
+.safety-tip p {
+    color: #666;
+}
+
+/* You can add more styling as needed to match your website's design */
+
+
+/* Add this to your existing CSS or create a new CSS file */
+
+.resource {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.resource h3 {
+    color: #333;
+}
+
+.resource p {
+    color: #666;
+}
+
+.resource a {
+    display: block;
+    margin-top: 10px;
+    color: #ff6699;
+    text-decoration: none;
+}
+
+.resource a:hover {
+    text-decoration: underline;
+}
+
+/* You can add more styling as needed to match your website's design */
+
+/* Add this to your existing CSS or create a new CSS file */
+
+#location-button {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #ff6699;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 0 10px;
+}
+
+button:hover {
+    background-color: #ff3366;
+}
+
+p {
+    text-align: center;
+    font-size: 16px;
+}
+
+
+/* contact css */
+
+form {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #ff6699;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #ff3366;
+}
+
+
+/* Add this CSS code to your existing CSS or create a new CSS file */
+
+#saved-numbers {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    font-weight: 600;
+    color: #333;
+}
+
+#phone-list {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+}
+
+#phone-list li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+/* You can customize the colors, fonts, and padding to match your website's design */
+
+
+/* footer */
+
+/* Add this CSS code to your existing CSS or create a new CSS file */
+
+footer {
+    background-color: rgb(41, 128, 185); /* Change this RGB value to your desired color */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 600;
+}
+
+#emergency-numbers {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.emergency-number {
+    background-color: #444;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.emergency-number h3 {
+    color: #fff;
+}
+
+.emergency-number p {
+    color: #ff6699;
+    font-weight: 600;
+}

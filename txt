@@ -1,0 +1,15 @@
+<div>
+    <h1>Safety-tips</h1>
+    <ul>
+        <li>Always be aware of your surroundings, especially in unfamiliar areas.</li>
+        <li>Carry a personal safety alarm or whistle to attract attention if you feel threatened.</li>
+        <li>Avoid walking alone at night, especially in poorly lit or deserted areas.</li>
+        <li>Share your location with a trusted friend or family member when going out alone.</li>
+        <li>Trust your instincts. If something feels wrong, leave the area or situation immediately.</li>
+        <li>Learn basic self-defense techniques to protect yourself in case of an emergency.</li>
+        <li>Avoid sharing personal information with strangers online or offline.</li>
+        <li>Be cautious when using public transportation and always choose well-lit stops and vehicles.</li>
+        <li>Keep emergency contacts programmed into your phone and accessible.</li>
+        <li>Report any incidents of harassment or threats to the appropriate authorities.</li>
+    </ul>
+</div>
