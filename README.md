@@ -1,6 +1,6 @@
 # Woman-safety-website
 
-![Website Preview](link-to-website-image.png)
+<img src="https://github.com/harshsinghcs/Woman-safety-website/assets/115187902/b9b0046c-a690-4d1a-a987-f5e5bfb3a8da" width="500" >
 
 ## Table of Contents
 - [About](#about)
