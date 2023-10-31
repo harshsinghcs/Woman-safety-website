@@ -21,7 +21,7 @@ The Woman-safety website is an online platform dedicated to empowering women and
 - **Saved Numbers**: Save and organize the phone numbers of your loved ones for quick access in emergencies.
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/Woman-safety-website.git`
+1. Clone the repository: `git clone https://github.com/harshsinghcs/Woman-safety-website.git`
 2. Open the project in your preferred code editor.
 3. Customize the website to your specific needs.
 
